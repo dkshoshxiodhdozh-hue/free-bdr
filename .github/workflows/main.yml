@@ -1,0 +1,6 @@
+public static ScfElement Txt (
+    ScfAlign align,
+    bool txtWrap,
+    Nullable<Color> color,
+    params Object[] content
+)
